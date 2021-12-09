@@ -1,7 +1,7 @@
-package strategy1;
+package Strategy;
 
-import strategy1.cuak.CuackBehavior;
-import strategy1.fly.FlyBehavior;
+import Strategy.cuak.CuackBehavior;
+import Strategy.fly.FlyBehavior;
 public abstract class Duck {
     FlyBehavior flyBehavior;
     CuackBehavior cuackBehavior;

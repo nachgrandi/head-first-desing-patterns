@@ -1,7 +1,7 @@
-package strategy1;
+package Strategy;
 
-import strategy1.cuak.MuteQuack;
-import strategy1.fly.NoFly;
+import Strategy.cuak.MuteQuack;
+import Strategy.fly.NoFly;
 
 public class MiniDuckSimulator {
     public static void main (String[] args) {

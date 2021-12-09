@@ -1,7 +1,7 @@
-package strategy1;
+package Strategy;
 
-import strategy1.cuak.Quack;
-import strategy1.fly.FlyRocketPowered;
+import Strategy.cuak.Quack;
+import Strategy.fly.FlyRocketPowered;
 
 public class MallardDuck extends Duck{
     public MallardDuck () {

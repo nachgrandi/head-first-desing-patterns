@@ -1,4 +1,4 @@
-package strategy1.fly;
+package Strategy.fly;
 
 public interface FlyBehavior {
     void fly();
